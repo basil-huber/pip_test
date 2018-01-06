@@ -1,1 +1,2 @@
-print("test1")
+def myversion():
+	print("test1")
